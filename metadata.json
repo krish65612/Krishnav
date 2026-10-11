@@ -1,0 +1,6 @@
+{
+  "name": "Vibelio",
+  "description": "Independent artist music platform with real-time streaming analytics, synchronized lyrics, offline downloads, fan messaging, unlimited playlists, and ₹65 VIP subscription.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

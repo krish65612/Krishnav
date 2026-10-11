@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vibelio</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_community">Community</string>
+    <string name="nav_messages">Messages</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_library">Library</string>
+</resources>
